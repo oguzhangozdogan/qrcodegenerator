@@ -16,5 +16,6 @@ HTML
 CSS
 JavaScript
 QRCode.js
+
 Credits
 QRCode.js library by davidshimjs
